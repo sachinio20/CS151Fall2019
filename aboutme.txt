@@ -1,0 +1,12 @@
+Your name: Sachin Shah
+Your student ID: 012105145
+Your major: SE
+Your preferred email address: sachin.shah@sjsu.edu
+Check one: [x ] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [ x] No
+Place and semester where you took a programming course in Java: Fall 2018, SJSU
+Course number and grade received: CS 46B, A
+Place and semester where you took a course in data structures: SJSU Spring 2019
+Course number and grade received: CS 146, C-
+Time it took you to answer the two questions below: 1 min
+Did you ask anyone for help? [ ] Yes, [ x] No
