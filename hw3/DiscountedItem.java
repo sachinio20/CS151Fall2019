@@ -1,4 +1,4 @@
-package hw3;  
+//package hw3;  
 
 /**
        A decorator for an item that applies a discount.
